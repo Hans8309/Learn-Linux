@@ -6,21 +6,13 @@
           lo        no wireless extensions.
 
           wls5      IEEE 802.11  ESSID:"AC86U_5G"
-       
                     Mode:Managed  Frequency:5.785 GHz  Access Point: 0C:9D:92:4B:0F:14
-          
                     Bit Rate=36 Mb/s   Tx-Power=14 dBm
-          
                     Retry short limit:7   RTS thr:off   Fragment thr:off
-          
                     Encryption key:off
-          
-                     Power Management:on
-          
+                    Power Management:on
                     Link Quality=56/70  Signal level=-54 dBm
-          
                     Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
-          
                     Tx excessive retries:0  Invalid misc:81   Missed beacon:0
           ens3      no wireless extensions.
 
