@@ -12,3 +12,5 @@ Ctrl+Alt+t 打开终端窗口，输入命令： sudo apt-get install openssh-ser
 下载免安装的 Portable 版本最好，不需要安装，单文件使用非常方便.
 MobaXterm Portable v11.0 文件大小23.8M.不算太大.  
 打开MobaXterm软件，建立 New session，选择SSH，填写远程ubuntu主机的IP地址，按ok按钮即可进入终端控制窗口。
+linux的主机的IP地址，可在终端里输入查询 ： ifconfig   
+第一次需要安装一下工具，在终端里输入： sudo apt-get install openssh-server  
