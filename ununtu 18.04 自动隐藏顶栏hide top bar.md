@@ -1,6 +1,6 @@
 # 如何自动隐藏ubuntu顶栏
 
-搜索了好几片文章，按照提示操作错误，后来找个一个老外的网站  
+搜索了好几片文章，按照提示操作错误，后来找个一个老外的网站，按照提示操作成功.   
 https://askubuntu.com/questions/1029881/how-to-hide-top-bar-in-ubuntu-18-04
 
 **Step 1.**   
