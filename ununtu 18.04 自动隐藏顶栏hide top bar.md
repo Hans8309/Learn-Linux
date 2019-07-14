@@ -4,8 +4,8 @@
 https://askubuntu.com/questions/1029881/how-to-hide-top-bar-in-ubuntu-18-04
 
 
-先安装 chrome-gnome-shell 包：
-在终端输入： sudo apt install chrome-gnome-shell
+先安装 chrome-gnome-shell 包：  
+在终端输入： `sudo apt install chrome-gnome-shell`
 
 然后在浏览器里安装插件
 
