@@ -15,6 +15,7 @@ Then install one of these extensions:
 [GNOME Shell integration for Opera](https://addons.opera.com/en/extensions/details/gnome-shell-integration/)  
 
 **Step 3.**    
-安装隐藏顶栏插件  
-Finally, head over to [GNOME Extensions](https://extensions.gnome.org/extension/545/hide-top-bar/) and enable the ON/OFF switch for the extension to install.
+安装[隐藏顶栏插件](https://extensions.gnome.org/extension/545/hide-top-bar/)   
 插件里就会出现一个开关，打开即可生效。
+Finally, head over to [GNOME Extensions](https://extensions.gnome.org/extension/545/hide-top-bar/) and enable the ON/OFF switch for the extension to install.   
+
